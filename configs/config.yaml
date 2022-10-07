@@ -1,0 +1,4 @@
+mongo:
+  host: "@cluster0.5tdjyw7.mongodb.net/?retryWrites=true&w=majority"
+  username: "david"
+  password: "david01"
